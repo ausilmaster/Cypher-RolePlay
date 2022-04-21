@@ -1,0 +1,78 @@
+
+--------------------------
+SA-MP Server: 0.3.7
+
+Exception At Address: 0x5FE1F327 Module: (mysql.DLL)
+
+Registers:
+EAX: 0x00000000	EBX: 0x5B97ED54	ECX: 0x00000000	EDX: 0x0000000D
+ESI: 0x0000004D	EDI: 0x0027F000	EBP: 0x0012FE04	ESP: 0x0012FDF4
+EFLAGS: 0x00010246
+
+Stack:
++0000: 0x01351498   0x01658C50   0x01E20020   0x0028F110
++0010: 0x76C4F1A7   0x5FE314E9   0x01651398   0x00469D9B
++0020: 0x01658C50   0x76C4C486   0x76C4C4D0   0x00000000
++0030: 0x01658C50   0x0012FEA4   0x004A93BE   0x00000000
++0040: 0x0048ACF1   0x00000000   0x00001DB1   0x0012FF88
++0050: 0x7FFDF000   0x0000F000   0x00010101   0x00000032
++0060: 0x00001E61   0x00000078   0x00001104   0x01659198
++0070: 0x656D6167   0x65646F6D   0x00003531   0x004C0014
++0080: 0x004C0010   0x7FFDF000   0x004A9B60   0x0012FE70
++0090: 0x0012FF78   0x0012FF78   0x0049B938   0x004B6698
++00A0: 0xFFFFFFFF   0x00499BD1   0x00499BE1   0x004A9B60
++00B0: 0x0012FF78   0x004A97D1   0xFFFFFFFF   0x0049B3D6
++00C0: 0x00000001   0x016515E8   0x01651638   0x00000094
++00D0: 0x00000006   0x00000001   0x00001DB1   0x00000002
++00E0: 0x76726553   0x20656369   0x6B636150   0x00003120
++00F0: 0x00000000   0x00000000   0x00000000   0x00000000
++0100: 0x00000000   0x00000000   0x00000000   0x00000000
++0110: 0x00000000   0x00000000   0x00000000   0x00000000
++0120: 0x00000000   0x00000000   0x00000000   0x00000000
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x004FA000	(C:\Users\Usuario\Desktop\Servidor base\GM\samp-server.exe)
+ntdll.dll	A: 0x76E30000 - 0x76F72000	(C:\Windows\SYSTEM32\ntdll.dll)
+kernel32.dll	A: 0x76C00000 - 0x76CD5000	(C:\Windows\system32\kernel32.dll)
+KERNELBASE.dll	A: 0x74FA0000 - 0x74FEB000	(C:\Windows\system32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75BA0000 - 0x767EC000	(C:\Windows\system32\SHELL32.dll)
+msvcrt.dll	A: 0x76A30000 - 0x76ADC000	(C:\Windows\system32\msvcrt.dll)
+SHLWAPI.dll	A: 0x75850000 - 0x758A7000	(C:\Windows\system32\SHLWAPI.dll)
+GDI32.dll	A: 0x75490000 - 0x754DE000	(C:\Windows\system32\GDI32.dll)
+USER32.dll	A: 0x75A20000 - 0x75AE9000	(C:\Windows\system32\USER32.dll)
+LPK.dll	A: 0x76F90000 - 0x76F9A000	(C:\Windows\system32\LPK.dll)
+USP10.dll	A: 0x76CE0000 - 0x76D7D000	(C:\Windows\system32\USP10.dll)
+WSOCK32.dll	A: 0x710D0000 - 0x710D7000	(C:\Windows\system32\WSOCK32.dll)
+WS2_32.dll	A: 0x759E0000 - 0x75A15000	(C:\Windows\system32\WS2_32.dll)
+RPCRT4.dll	A: 0x76D80000 - 0x76E22000	(C:\Windows\system32\RPCRT4.dll)
+NSI.dll	A: 0x76F80000 - 0x76F86000	(C:\Windows\system32\NSI.dll)
+WINMM.dll	A: 0x73370000 - 0x733A2000	(C:\Windows\system32\WINMM.dll)
+IMM32.DLL	A: 0x76FA0000 - 0x76FBF000	(C:\Windows\system32\IMM32.DLL)
+MSCTF.dll	A: 0x75910000 - 0x759DD000	(C:\Windows\system32\MSCTF.dll)
+mysql.DLL	A: 0x5FE10000 - 0x5FE4E000	(C:\Users\Usuario\Desktop\Servidor base\GM\plugins\mysql.DLL)
+libmysql.dll	A: 0x5A760000 - 0x5AC6C000	(C:\Users\Usuario\Desktop\Servidor base\GM\libmysql.dll)
+Secur32.dll	A: 0x74CF0000 - 0x74CF8000	(C:\Windows\system32\Secur32.dll)
+SSPICLI.DLL	A: 0x74E20000 - 0x74E3B000	(C:\Windows\system32\SSPICLI.DLL)
+ADVAPI32.dll	A: 0x75AF0000 - 0x75B91000	(C:\Windows\system32\ADVAPI32.dll)
+sechost.dll	A: 0x76FC0000 - 0x76FD9000	(C:\Windows\SYSTEM32\sechost.dll)
+MSVCR120.dll	A: 0x5B970000 - 0x5BA5E000	(C:\Windows\system32\MSVCR120.dll)
+MSVCP120.dll	A: 0x5DC30000 - 0x5DCA1000	(C:\Windows\system32\MSVCP120.dll)
+NLAapi.dll	A: 0x73280000 - 0x73290000	(C:\Windows\system32\NLAapi.dll)
+napinsp.dll	A: 0x736B0000 - 0x736C0000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x73600000 - 0x73612000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x74940000 - 0x7497C000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x74800000 - 0x74844000	(C:\Windows\system32\DNSAPI.dll)
+winrnr.dll	A: 0x71C10000 - 0x71C18000	(C:\Windows\System32\winrnr.dll)
+WLIDNSP.DLL	A: 0x70590000 - 0x705B7000	(C:\Program Files\Common Files\Microsoft Shared\Windows Live\WLIDNSP.DLL)
+PSAPI.DLL	A: 0x75450000 - 0x75455000	(C:\Windows\system32\PSAPI.DLL)
+rasadhlp.dll	A: 0x70580000 - 0x70586000	(C:\Windows\system32\rasadhlp.dll)
+streamer.DLL	A: 0x60660000 - 0x606A6000	(C:\Users\Usuario\Desktop\Servidor base\GM\plugins\streamer.DLL)
+sscanf.DLL	A: 0x10000000 - 0x1000D000	(C:\Users\Usuario\Desktop\Servidor base\GM\plugins\sscanf.DLL)
+MSVCR100.dll	A: 0x5C370000 - 0x5C42F000	(C:\Windows\system32\MSVCR100.dll)
+wshtcpip.dll	A: 0x74440000 - 0x74445000	(C:\Windows\System32\wshtcpip.dll)
+IPHLPAPI.DLL	A: 0x73020000 - 0x7303C000	(C:\Windows\system32\IPHLPAPI.DLL)
+WINNSI.DLL	A: 0x73010000 - 0x73017000	(C:\Windows\system32\WINNSI.DLL)
+wship6.dll	A: 0x74930000 - 0x74936000	(C:\Windows\System32\wship6.dll)

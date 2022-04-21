@@ -1,0 +1,42 @@
+[10:54:24] [ERROR] mysql_connect - empty connection data specified
+[10:54:24] [ERROR] mysql_errno - invalid connection handle (id: 1)
+[10:54:42] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'll' (0)
+[10:54:57] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user ''@'localhost' to database 'sql'
+[10:54:57] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user ''@'localhost' to database 'sql'
+[10:54:57] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user ''@'localhost' to database 'sql'
+[10:54:57] [ERROR] CMySQLConnection::Connect - (error #1044) Access denied for user ''@'localhost' to database 'sql'
+[11:40:30] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:30] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:30] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:30] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:59] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:59] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:40:59] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:42:42] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:42:42] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:42:42] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:42:42] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:45:56] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:45:56] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:45:56] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:45:56] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'base'
+[11:51:57] [ERROR] CMySQLQuery::Execute[VerificarUsuario] - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:07:37] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:07:37] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:07:37] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:08:42] [ERROR] CMySQLQuery::Execute[VerificarUsuario] - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:08:44] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:08:44] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[12:08:44] [ERROR] CMySQLQuery::Execute - (error #1146) Table 'b3.cuentas' doesn't exist
+[11:27:44] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:27:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:27:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:27:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:37:36] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:37:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:37:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:37:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[11:37:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:04:28] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Cash' in 'field list'
+[14:07:09] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Cash' in 'field list'
+[14:08:58] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Cash' in 'field list'
