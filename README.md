@@ -5,8 +5,9 @@
 ---
 ## Giới thiệu 📝
 -Phát triển: Cypher Team<br />
-- Thành viên: + Ausil (Main Scripter)
+- Thành viên: <br />
+              + Ausil (Main Scripter)
               + нхатнам (Scripter)
               + Vityl (Mapper)
-              + 
+              
 -Để có hướng dẫn chi tiết [bấm vào đây](https://discord.gg/Z2jJMXmXzU).
