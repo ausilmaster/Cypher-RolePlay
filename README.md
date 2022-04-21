@@ -10,4 +10,4 @@
               - нхатнам (Scripter)<br />
               - Vityl (Mapper)<br />
               
--Để có hướng dẫn chi tiết [bấm vào đây](https://discord.gg/Z2jJMXmXzU).
+-Để biết thêm về Cypher Team [bấm vào đây](https://discord.gg/Z2jJMXmXzU).
