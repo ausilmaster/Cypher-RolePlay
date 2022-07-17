@@ -8,6 +8,5 @@
 - Thành viên: <br />
               - Ausil (Main Scripter)<br />
               - нхатнам (Scripter)<br />
-              - Vityl (Mapper)<br />
               
 -Để biết thêm về Cypher Team [bấm vào đây](https://discord.gg/Z2jJMXmXzU).
